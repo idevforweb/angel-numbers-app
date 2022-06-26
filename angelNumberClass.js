@@ -16,7 +16,7 @@ class AngelNumberClass {
     this.counterArray = counterArray;
   };
 
-  // all array numbers pushed to arrauy of Objects: { key : value }
+  // all array numbers pushed to array of Objects: { key : value }
   //output {'numStr': '111', 'numInt': 111}
   // methods used: new Map() and Object.fromEntries.
 
